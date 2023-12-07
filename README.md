@@ -33,6 +33,7 @@
 - Implement a connection between a Ruby on Rails back-end and React front-end.
 - Understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
+Feel free to check the [React Frontend Project](https://github.com/Bettenoch/hello-react-front-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 - webpack
